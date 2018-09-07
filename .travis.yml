@@ -101,6 +101,7 @@ branches:
   only:
   - master
   - /^v\d/
+  - tests
 notifications:
   email: false
   irc:
